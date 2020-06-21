@@ -67,7 +67,7 @@ email: ""
 # - Visitors
 ---
 
-I am a graduate student in the [D'Aloia Lab](http://www.cassidydaloia.com/) at the University of New Brunswick. For my graduate work I will be investigating the population genetic structure of Waved whelk (*Buccinum undatum*) in the Bay of Fundy. 
+I am a graduate student in the [D'Aloia Lab](http://www.cassidydaloia.com/) at the University of New Brunswick. For my graduate work I will be investigating the population genetics of Waved whelk (*Buccinum undatum*) in the Bay of Fundy. 
 
 Apart from science, I spend a lot of time outside. Like many budding naturalists, I've idealized the concept of experiencing untouched, pristine nature from a young age, leading me to having a slur of hobbies that get me closer to this "ideal". When I can get a hold of the (sometimes expensive) equipment you can find me kayaking, rock climbing, or backpacking.
 
