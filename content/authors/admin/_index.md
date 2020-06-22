@@ -67,8 +67,8 @@ email: ""
 # - Visitors
 ---
 
-I am a graduate student in the [D'Aloia Lab](http://www.cassidydaloia.com/) at the University of New Brunswick. For my graduate work I will be investigating the population genetics of Waved whelk (*Buccinum undatum*) in the Bay of Fundy. 
+For you to have found yourself here I think I can safely assume this is the question you're here to ask. Well, or you're in the middle of a very deep internet spiral. In the case of the former, I can help! Welcome, I am a current graduate student in the [D'Aloia Lab](http://www.cassidydaloia.com/) at the University of New Brunswick. For my graduate work I will be investigating the population genetics of Waved whelk (*Buccinum undatum*) in the Bay of Fundy. 
 
-Apart from science, I spend a lot of time outside. Like many budding naturalists, I've idealized the concept of experiencing untouched, pristine nature from a young age, leading me to having a slur of hobbies that get me closer to this "ideal". When I can get a hold of the (sometimes expensive) equipment you can find me kayaking, rock climbing, or backpacking.
+Apart from science, I spend a lot of time outside. Like many budding naturalists, I have a constant aching desire to surround myself in nature leading me to have a slur of hobbies that reflect this. When I can get a hold of the (sometimes expensive) equipment you can find me kayaking, rock climbing, or backpacking.
 
-More recently I've distanced myself from this ideology and am finding just as much enjoyment exploring the city of Saint John.
+More recently I've distanced myself from the culture of going to pristine, isolated nature or "the field" as the only cure to my addiction and am finding just as much enjoyment exploring the city of Saint John (Urban ecologists, I see you).
